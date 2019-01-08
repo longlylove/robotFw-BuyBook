@@ -25,9 +25,9 @@ How-to:
 
 Troubleshoot test run:
 - Once robot tests are run, log file and test reports are available in your local folder. Hence look for following files
-+ output.xml
-+ log.html
-+ report.html
+  + output.xml
+  + log.html
+  + report.html
 
 Note:
 - Python complied files (.pyc) are generated automatically under each folder where .py files are stored
